@@ -1,10 +1,10 @@
 # Site settings
 
-title: Rob Hinds
+title: UDAY KUMAR
 
-twitter_username: rob_hinds
+twitter_username: udayom
 
-name: Rob Hinds
+name: Uday Kumar
 
 #User specific content
 
@@ -14,43 +14,47 @@ primarylinks:
 
  - title: Blog
 
-   url: http://automateddeveloper.blogspot.com/
+   url: http://udayom.blogspot.com/
 
  - title: GitHub
 
-   url: https://github.com/robhinds
-
- - title: DZone
-
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/udayom
 
 #Any buzzword skills you want to include
 
 skills:
 
- - Groovy
+ - Cyber Security
 
- - Spring MVC
+ - Threat Management
 
- - Spring Boot
+ - Vulnerability Analysis
+
+ - Penetration Testing
+
+ - GRC
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 
-blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
+blogfeed: http://udayom.blogspot.com/feeds/posts/default
 
 #Work experience is required
 
 roles:
 
- - title: Senior Engineer
+ - title: Cyber Security Manager
 
-   start: 2012
+   start: 2018
 
    end: Ongoing
 
-   employer: Covestor
+   employer: Khidmaty Government services
 
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
+   description: Client ASGC UAE, Construction company, Leading Entire Cyber Security Department which includes, vulnerability Analysis, Penetration Testing, Threat assessments, Risk Analysis, Cyber Attack investigation, Policy and procedure development.
+
+
+ - title:  Cyber Security Analyst
+
 
 #Education is required
 
