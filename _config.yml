@@ -55,18 +55,26 @@ roles:
 
  - title:  Cyber Security Analyst
 
+   start: 2014
+
+   end: 2017
+
+   employer: Capgemini
+
+   description: Client ASGC UAE, Construction company, Leading Entire Cyber Security Department which includes, vulnerability Analysis, Penetration Testing, Threat assessments, Risk Analysis, Cyber Attack investigation, Policy and procedure development.
+
 
 #Education is required
 
 education:
 
- - level: Bachelor of Science (B.Sc.)
+ - level: Master of Engineering (M.Eng)
 
-   date: 2003
+   date: 2012
 
-   subject: Artificial Intelligence and Computer Science
+   subject: Information Technology
 
-   school: University of Birmingham
+   school: University of Mumbai
 
 #This section is optional (as is the image link below)
 
