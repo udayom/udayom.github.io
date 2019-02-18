@@ -4,7 +4,7 @@ title: UDAY KUMAR
 
 twitter_username: udayom
 
-name: Uday Kumar
+name: UDAY KUMAR
 
 #User specific content
 
@@ -34,6 +34,12 @@ skills:
 
  - GRC
 
+ - DevOps
+
+ - DevSecOps
+
+
+
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 
 blogfeed: http://udayom.blogspot.com/feeds/posts/default
@@ -50,7 +56,7 @@ roles:
 
    employer: Khidmaty Government services
 
-   description: Client ASGC UAE, Construction company, Leading Entire Cyber Security Department which includes, vulnerability Analysis, Penetration Testing, Threat assessments, Risk Analysis, Cyber Attack investigation, Policy and procedure development.
+   description: Operational and Governance related tasks that relates to Security for Client ASGC, Dubai. Major task includes the Defining and Implementation of Information Security Policies and Procedures as per ISO27001 Standards. The Automation of Management Reports, Analyze the vulnerabilities found in infrastructure by Vulnerability Analysis and Penetration Testing (Manual+Automated), Threat Remediation, highlight risk to management, risk assessment, vendor management, security checks for vendor, hardening checks on the Oracle Linux operating system, schedule Antivirus scans and highlight the Major vulnerability to IT Infra team, schedule patch management, Ensure compliance of the policies on the servers, Manage and Administer IT security and Forensic tools such as LanSweeper, QualysGuard, Symantec Endpoint protection, ATP, ETP, EDR, MS Office 365 Admin, Azure Portal Admin, Cloud Server Management Activities like New Provisioning server, Migrate, Destroy server etc. <br> Perform VAPT on in-house Applications using OpenVAS. SIEM configuration (AlienVault), Cyber Operations, Reporting, Demonstration. Investigation of the attacks, Fortinet Firewall Rules review (nipper), log and memory based analysis, Forensic evidence finding (SIEM Log and Dump based). Technical Policy defining and Implementation in Symantec Endpoint Protection, Data Leakage Protection (DLP), Email+Cloud Security, Email Threat Protection (FireEye, Microsoft, Mimecast), Web Isolation modules Configuration. </br>
 
 
  - title:  IT Security Manager
@@ -61,7 +67,15 @@ roles:
 
    employer: Finacus Solutions
 
-   description: Client ASGC UAE, Construction company, Leading Entire Cyber Security Department which includes, vulnerability Analysis, Penetration Testing, Threat assessments, Risk Analysis, Cyber Attack investigation, Policy and procedure development.
+   description: Automation with Security Compliance checks, Policy procedures defining, ISO/IEC 27001, PCI-DSS implementation, Process Management, Incident Management, Change management, Automation of operational tasks, Internal Security Auditing, VAPT, Continuous Development and Automation with open-source tools (DevOps), Complete Financial Domain, Payment gateway interface Audit as per PCI DSS Compliance, Process Auditing. Reporting ROC (Report on Compliance), ROV (Report on Validation), Performing ASV Scans as part of PCI DSS Implementation.
+
+Major Responsibility included all the Operational and Governance related tasks that relates to Security for Finacus Solutions Pvt. Ltd. which deals with its various clients (100+) as Reputed Banks spread across India.
+
+Major task included the Defining and Implementation of Information Security Policies and Procedures. The Automation of business requirements and management, so far covered Change management, Incident Management, Asset Inventory, Helpdesk, Ticketing, Effort Tracking and Documentation storage Automation.  Administering Azure account for system integration of ticketing system
+
+From DevSecOps section, have covered configuration, implementation and Maintenance of various monitoring tool such as Nagios, Baretail, OpenNMS, Graylog, RanCID. Automated Email/SMS Triggering from monitoring tool if critical alert arrives as per business requirement. Configuring and Administration of Manage Engine PIM Tool Password Manager Pro, WatchGuard Firewall Rules, Implementing Trend Micro Anti-Virus, Involvement of banking domain requires more emphasize on PCI-DSS compliance which talks about internal and external Auditing reports. Jenkins Automation for day to day jobs as well as code deployment on Linux servers via Shell Scripts developed and implemented.
+
+Following Agile Way of Methodology with Sprint Framework and DevSecOps Practice to achieve Automation with End to End Project workflow Integration including Automated Security Check Components! 
 
 
  - title:  Cyber Security Analyst
@@ -72,7 +86,28 @@ roles:
 
    employer: Capgemini
 
-   description: Client ASGC UAE, Construction company, Leading Entire Cyber Security Department which includes, vulnerability Analysis, Penetration Testing, Threat assessments, Risk Analysis, Cyber Attack investigation, Policy and procedure development.
+   description: >>> Governance Security :
+
+Manage Audits, Compliance check along with certifications for various standards such as ISO 27001:2013 and PCI DSS. Multi-operational experience in Networking Operations, Systems Administration, Security and Audit & Support of Heterogeneous IT Infrastructure and BCP/DR. Handling Incident Management.
+Formulating, Reviewing, Upgrading, Developing Policy, Procedures and Guidelines for elements governing/connected to ISO Standards, Analyze SIEM tools, IDS and auctioning on alerts.
+
+>>> Operational Security:
+
+Involved in Vulnerability Analysis and Penetration Testing, worked on tools like burpsuite, IBM Appscanner, OWASP top 10, wapiti, Paros proxy, Nikto, Nessus, metasploite etc.
+IPS and DDOS mitigation device reports analysis firewall rule dump and analysis, proxy logs, user administration, OSSEC, SIEM tool monitoring and configuration, ITIL Tool - Service now.
+
+Cyber Forensics and Analysis using tools like The Sleuth Kit, Autopsy, Rekall, DumpIT, Volatility, log2timeline and most of the tools from Kali Linux OS. Handled SOC activities in which Analysis of complete trail of activities of user based on the logs and extracting footprints for legal purpose to be dealt with Cyber Law team. 
+
+>>> DevOps:
+
+Digital Transformation of Project: Worked on Multiple open source tools like Nagios, Munin, graphite, Jenkins, Apache,  ldap, mongodb, maven, Exim, ELK stack, graylog, graphite, redis-cache, memcache, exim, Linux shell scripting, Automation with Jenkins, Ansible, Puppet
+To design business rule-based dashboards in AppDynamic. To make dashboards and alerts in AppDynamics based on Business requirement. AppDynamics deployment and complete setup
+
+>>> Project Management:
+
+Experience on Atlassian tools like JIRA, Confluence, stash, bitbucket. Studied ITIL Fv4 & worked on Kanban boards for project progress tracking. Project management experience for deployment, schedule.
+Good at Incident, Change management, onshore & offshore interaction & Documentation
+
 
 
  - title:  SOC Engineer (Intern)
@@ -83,7 +118,49 @@ roles:
 
    employer: Asian Associates
 
-   description: Client ASGC UAE, Construction company, Leading Entire Cyber Security Department which includes, vulnerability Analysis, Penetration Testing, Threat assessments, Risk Analysis, Cyber Attack investigation, Policy and procedure development.
+   description: Performed Vulnerability Analysis and Penetration Testing, worked on Linux based open source tools like burpsuite, OWASP, Nikto, wapiti, Paros proxy, Nessus, metasploite etc.
+
+Implemented and Administered IPS and Performed DDOS mitigation device reports analysis, Forensic Analysis on attack trace, proxy logs, user administration.
+
+Complete SOC level Monitoring setup including Nagios, OSSEC, SIEM tool monitoring and configuration.
+
+Tweaking in existing scripts/IT Tools for performance boosting and Automating of the tasks performed. 
+
+
+
+ - title:  Assistant Professor (University of Mumbai)
+
+   start: 2012
+
+   end: 2013
+
+   employer: Terna Engineering College
+
+   description: Worked as Teaching Associate @ Terna Engineering College, Nerul, Navi Mumbai.
+
+Subjects taught to Engineering Students : Linux, Cloud Computing, Network Security, Practicals.
+
+Worked as Practical Lab Assistant where major responsibility emphasis on Security Measures while developing the application in cloud and on-premise infrastructure. (as a part of Masters' first year).
+Worked on Wireshark, tcpdump tools uesd to monitor the run-time user traffic for security measures. 
+Worked on Linux (4 years) tools like telnet, ssh basic concepts that were required for project work to take ahead.
+Worked on the multiple VAPT (Vulnerability Analysis and Penetration Testing) tools such as acutinex, nikto, wapiti, metasploit, nessus  etc to find out vulnerability in website CVE/CWE references and possible solution to fix them.
+
+Got appreciation from Principal regarding good with documentation and presentations.
+Got Bounty from principal for finding miss-configuration in cyberoam device in college Infrastructure.
+
+Work from Cyber Security Forensic Analysis field, IPS device, UTM hardware devices (Cyberoam), firewalls, Implemented ISMS policy in theory, IP-tracing, reputation, spam detection, vulnerability testing, penetration testing, CVE findings. (White Hat Hacking)
+
+Cloud based Instance customization : To make instance more efficient. (IAAS)
+
+Proof reading logs: Log file analysis
+VMWare and virtualization technologies.
+Router configuration : Implementing / routing paths for efficient routing, making subnets.
+Representing graphs in sophisticated graphical format using open source tools/
+Interaction + Presentation for clients / Representatives. Vendor finalization for Security stack assets.
+
+
+
+
 
 
 #Education is required
@@ -92,61 +169,81 @@ education:
 
  - level: Master of Engineering (M.Eng)
 
-   date: 2012
+   date: 2014
 
-   subject: Information Technology
+   subject: Information Technology (Boys Toper in College - Merit) 8.5 /A
 
    school: University of Mumbai
 
+ - level: Bachelor of Engineering (B.Eng)
+
+   date: 2012
+
+   subject: Electronics and Telecommunications- Sardar Patel Institute of Technology - First class - A
+
+   school: University of Mumbai
+
+
 #This section is optional (as is the image link below)
 
-coursera:
+Certifications:
 
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   profileurl: https://www.linkedin.com/in/udayom
 
    courses:
 
-    - title: Functional Programming Principles in Scala
+    - title: Certified Ethical Hacker v10 2019
 
-      link: https://www.coursera.org/course/progfun
 
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-
-      date: September 16, 2013
+      date: February 4, 2019
 
 #List of interesting Github repo/projects to include - optional
 
 github:
 
- - robhinds/twitter-sentiment-analysis
+ - udayom/capistrano-deploy
 
- - robhinds/spring-reactor-twitter
+ - udayom/glpi
 
- - robhinds/microservices
+ - udayom/OSCP-Study-Notes
 
-#Stackoverflow flair is optional
+ - udayom/linux-exploit-suggester
 
-stackoverflow:
 
-   profileurl: http://stackoverflow.com/users/258813/rhinds
+intro: |
+  I am an engineer with 6 years experience working in Multi-Technology Environment. I have majorly worked on Cyber Security, Technology Automation, Ethical Hacking, Policy Procedure establishments, DevOps setup.  I have worked across a broad range of DevOps/ DevSecOps tools such as: Nagios, Munin, graphite, Jenkins, Apache,  ldap, mongodb, maven, Exim, ELK stack, graylog, graphite, redis-cache, memcache, exim, Linux shell scripting, Automation with Jenkins, Ansible, Puppet. <br/><br/>
+  I enjoy Automating the workflow between applications/ process, with a good Architecture keeping Security as focus and applying basic engineering principles. I have client interaction experience for Demostration, Delivery as well as root cause Analysis for cyber security incidents.  <br/><br/>
+  I have worked in large scale consultancy roles in multiple industries such as Banking, Financial, Construction, Postal domain. My job responsibility reports always to CIO <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
 
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
-
-#Mobile apps section is optional
-
-apps:
-
- - name: Chuck the Quiz
-
-   platform: Android
-
-   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
-
-   description: A basic early Android app (open sourced)
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 
 additionalinfo: |
 
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>).
+With 6+ Years of Total Experience, Uday has been successful in implementing Policy and Procedures as per ISO 27001 standards in various projects, he has also implemented procedures based on PCI DSS and PA DSS standard and Handled Internal Auditing of same.
+
+He has expertly performed Vulnerability Analysis and Penetration Testings (Web Application, Server, Mobile, all platforms) and he is good in defending the Infrastructure from External Cyber Attacks (Blue Team Lead). He can forensically analyze the origin of Cyber attack & trace the behavior/malware/unintentional/hacking activity. 
+
+Uday has also evaluated risk assessment for business as part of compliance due diligence. He holds DevOps / DevSecOps & Agile Methodology experience as well, always looking for the scope of Automation in Infrastructure/process/IT and he loves open source tools used for Cyber Forensics, Ethical Hacking, VAPT activities. Having teaching background Uday can teach, explain concepts very well to Juniors as well as senior Management with ease.
+
+<strong> Top Highlights: (Client Facing) </strong>
+Presenting
+Demonstrating
+Delivering
+Investigating (RCA)
+
+<strong> Certificates:</strong>
+ISO 27001 Lead Auditor (TuV SuD)
+PCI DSS Implementation (Qrc)
+Certified Ethical Hacking CEH v10 (EC-Council)
+Agile Project Management (Udemy)
+Diploma in Cyber Law (Asian School of Cyber Law)
+
+<strong> Trainings Attended: </strong>
+Cyber Forensic  & Crime Investigation (University Certification)
+ITIL Foundation (L & D)
+AWS DevOps (Seminar)
+DevSecOps (L & D)
+Cloud Computing (University Certification)
+Linux Lab (University Certification)
 
