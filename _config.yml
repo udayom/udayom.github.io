@@ -30,52 +30,51 @@ skills:
  - Governance
  - Risk Managment
  - Compliance
- - Security Awareness
  - Training
  - Agile Methology
  - Technical Architecture
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+blogfeed: https://udayom.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Cyber Security Manager
+   start: 2018
    end: Ongoing
-   employer: Basement Crowd
+   employer: Khidmaty Government Services
    description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
+ - title: IT Security Manager
+   start: 2017
+   end: 2018
+   employer: Finacus Solutions
    description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
+ - title: Cyber Security Analyst
+   start: 2014
+   end: 2017
+   employer: Capgemini
    description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
+ - title: SOC Engineer 
+   start: 2013
+   end: 2014
+   employer: Asian Associates
    description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Master of Engineering (M.Engg)
+   date: 2012
+   subject: Information Technology
+   school: University of Mumbai
 
 #This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+Certifications:
+   profileurl: https://www.linkedin.com/in/udayom
    courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
+    - title: Certified Ethical Hacking
+      link: https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
+      optionalimage: https://udemy-images.udemy.com/course/240x135/157842_9d33_8.jpg
+      date: February 4, 2019
     - title: Algorithms Design and Analysis, Part 1
       link: https://www.coursera.org/specializations/algorithms
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
