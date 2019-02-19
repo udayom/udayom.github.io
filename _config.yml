@@ -56,7 +56,7 @@ roles:
    end: 2017
    employer: Capgemini
    description: Check More on <a href="https://www.linkedin.com/in/udayom" taget="_blank">LinkedIn Profile</a>
- - title: SOC Engineer(Intern)
+ - title: Intern Engineer
    start: 2013
    end: 2014
    employer: Asian Associates
@@ -76,7 +76,7 @@ education:
 #This section is optional (as is the image link below)
 certifications:
    profileurl: https://www.linkedin.com/in/udayom
-   courses:
+   course:
     - title: Certified Ethical Hacking
       link: https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
       optionalimage: https://udemy-images.udemy.com/course/240x135/157842_9d33_8.jpg
@@ -109,7 +109,7 @@ hackthebox:
 intro: |
   With 6+ years of Experience, I have Majorly worked on Cyber Security activities and Automation of the Industry based process/Technology.  <br/><br/>
   I enjoy working on shell scripts for Automation and Forensically Investigating the Cyber Security Incidents to find out the real purpose of the attack/Hack. <br/><br/>
-  I have worked  <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
+  I have always dedicated more efforts to literature survey where amount of time to understand the issue seemed quite a lot. Listening is very important and I listen very well. I have worked on my  <a href="https://www.github.com/udayom" target="_blank">GitHub Profile</a> to present it in Resume format.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
