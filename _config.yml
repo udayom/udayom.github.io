@@ -1,6 +1,6 @@
 # Site settings
 title: Uday Kumar
-twitter_username: rob_hinds
+twitter_username: udayom
 name: Uday Kumar
 
 # Build settings
@@ -10,33 +10,30 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+   url: http://udayom.blogspot.com/
  - title: GitHub
    url: https://github.com/udayom
- - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+ - title: Facebook
+   url: http://facebook.com/udayom
  - title: LinkedIn
    url: https://www.linkedin.com/in/udayom
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
- - SQL
- - REST
+ - Cyber Security
+ - Automation
+ - DevOps
+ - DevSecOps
+ - Ethical Hacking
+ - Vulnerability Assessment
+ - Penetration Testing
+ - Governance
+ - Risk Managment
+ - Compliance
+ - Security Awareness
+ - Training
+ - Agile Methology
  - Technical Architecture
- - Machine learning
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
@@ -83,18 +80,6 @@ coursera:
       link: https://www.coursera.org/specializations/algorithms
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
       date: April 28, 2014
-
-#This section is optional - embeds slideshows from speakerdeck
-# to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   profileurl: https://speakerdeck.com/udayom
-   talks:
-    - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: API Conference, Berlin 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
 github:
