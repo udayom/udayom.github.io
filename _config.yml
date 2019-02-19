@@ -107,6 +107,10 @@ hackthebox:
    profileurl: https://www.hackthebox.eu/home/users/profile/74322
    flairimageurl: https://www.hackthebox.eu/storage/avatars/fcb23cd55da58c4e1f115bf2eb48e6a8.png
 
+about:
+   profileurl: https://www.linkedin.com/in/udayom/
+   flairimageurl: https:
+
 intro: |
   With 6+ years of Experience, I have Majorly worked on Cyber Security activities and Automation of the Industry based process/Technology.  <br/><br/>
   I enjoy working on shell scripts for Automation and Forensically Investigating the Cyber Security Incidents to find out the real purpose of the attack/Hack. <br/><br/>
