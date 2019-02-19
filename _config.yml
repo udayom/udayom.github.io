@@ -24,12 +24,15 @@ skills:
  - Automation
  - DevOps
  - DevSecOps
+ - Digital Forensics
+ - Cyber Forensics
  - Ethical Hacking
  - Vulnerability Assessment
  - Penetration Testing
  - Governance
  - Risk Managment
  - Compliance
+ - Security Awareness
  - Training
  - Agile Methology
  - Technical Architecture
@@ -43,12 +46,12 @@ roles:
    start: 2018
    end: Ongoing
    employer: Khidmaty Government Services
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
+   description: Check More on <a href="https://www.linkedin.com/udayom/in" taget="_blank">LinkedIn Profile</a>.
  - title: IT Security Manager
    start: 2017
    end: 2018
    employer: Finacus Solutions
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+   description: Check More on <a href="https://www.linkedin.com/udayom/in" taget="_blank">LinkedIn Profile</a>.
  - title: Cyber Security Analyst
    start: 2014
    end: 2017
@@ -63,8 +66,12 @@ roles:
 #Education is required
 education:
  - level: Master of Engineering (M.Engg)
-   date: 2012
+   date: 2014
    subject: Information Technology
+   school: University of Mumbai
+ - level: Bachelor of Engineering (B.Engg)
+   date: 2012
+   subject: Electronics and Telecommunications
    school: University of Mumbai
 
 #This section is optional (as is the image link below)
