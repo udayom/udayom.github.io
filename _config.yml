@@ -1,5 +1,5 @@
 # Site settings
-title: Uday Kumar
+title: UDAY KUMAR
 twitter_username: udayom
 name: Uday Kumar
 
@@ -12,11 +12,11 @@ primarylinks:
  - title: Blog
    url: http://udayom.blogspot.com/
  - title: GitHub
-   url: https://github.com/udayom
+   url: https://github.com/udayom/
  - title: Facebook
-   url: http://facebook.com/udayom
+   url: http://facebook.com/udayom/
  - title: LinkedIn
-   url: https://www.linkedin.com/in/udayom
+   url: https://www.linkedin.com/in/udayom/
 
 #Any buzzword skills you want to include
 skills:
@@ -33,9 +33,8 @@ skills:
  - Risk Managment
  - Compliance
  - Security Awareness
- - Training
  - Agile Methology
- - Technical Architecture
+ - Training
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://udayom.blogspot.com/feeds/posts/default?alt=json
@@ -103,14 +102,14 @@ github:
  - udayom/PyPractice
 
 #Stackoverflow flair is optional
-HackTheBox:
+hackthebox:
    profileurl: https://www.hackthebox.eu/home/users/profile/74322
    flairimageurl: https://www.hackthebox.eu/storage/avatars/fcb23cd55da58c4e1f115bf2eb48e6a8.png
 
 intro: |
-  I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
-  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
-  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
+  With 6+ years of Experience, I have Majorly worked on Cyber Security activities and Automation of the Industry based process/Technology.  <br/><br/>
+  I enjoy working on shell scripts for Automation and Forensically Investigating the Cyber Security Incidents to find out the real purpose of the attack/Hack. <br/><br/>
+  I have worked  <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |

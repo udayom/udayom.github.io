@@ -1,0 +1,16 @@
+{% if site.hackthebox %}
+	<div class="rounded_panel txt_lightgrey">
+		<div class="top-rounded-panel grey-bg">
+			<h1>HackTheBox Flair</h1>
+		</div>
+		<div class="content-rounded-panel">
+			<div id="stackScore">
+				<a target='_blank' href="{{site.hackthebox.profileurl}}">
+					<img src="{{site.hackthebox.flairimageurl}}" width="208" height="58" 
+						alt="profile at HackTheBox, Q&amp;A for professional and enthusiast Ethical Hackers" 
+						title="profile at HackTheBox, Q&amp;A for professional and enthusiast Ethical Hackers">
+				</a>
+			</div>
+		</div>
+	</div>
+{% endif %}

@@ -1,11 +1,11 @@
-{% if site.coursera %}
+{% if site.certifications %}
 	<div id="coursesBubble" class="rounded_panel txt_lightgrey">
 		<div class="top-rounded-panel grey-bg">
-			<h1>Coursera</h1>
+			<h1>Certifications</h1>
 		</div>
 		<div class="content-rounded-panel">
 			<div id="courseraPanel">
-				{% for course in site.coursera.courses %}
+				{% for course in site.certifications.course %}
 				<div class="row">
 					{% if course.optionalimage %}
 						<div class="col-sm-5">
