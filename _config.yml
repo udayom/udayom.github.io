@@ -1,12 +1,12 @@
+theme: jekyll-theme-minimal
+
 # Site settings
-title: Uday Kumar
-twitter_username: udayom
-name: Uday Kumar
+title: "Uday Kumar"
+name: "Uday Kumar"
 
 # Build settings
 markdown: kramdown
 
-#User specific content
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
@@ -117,3 +117,4 @@ additionalinfo: |
       DevSecOps (L & D)
       Cloud Computing (University Certification)
       Linux Lab (University Certification)
+  
