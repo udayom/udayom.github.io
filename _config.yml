@@ -33,7 +33,7 @@ skills:
  - Risk Managment
  - Compliance
  - Security Awareness
- - Agile Methology
+ - Agile Methodology
  - Training
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
@@ -88,7 +88,7 @@ certifications:
     - title: ISO 27001 Lead Auditor
       link: https://www.tuv-sud.in/in-en/activity/auditing-system-certification/iso-27001-information-security-management-system
       date: February 4, 2017
-    - title: Agile Methology & Project Management
+    - title: Agile Methodology & Project Management
       link: https://www.udemy.com/agile-crash-course
       optionalimage: https://udemy-images.udemy.com/course/240x135/864146_dbd7_10.jpg
       date: January 28, 2018
