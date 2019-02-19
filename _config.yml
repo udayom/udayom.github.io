@@ -65,6 +65,14 @@ roles:
 
 #Education is required
 education:
+ - level: Diploma in Cyber Law
+   date: 2016
+   subject: Cyber Law
+   school:  Asian School of Cyber Laws
+ - level: Post Graduate Diploma in Managmeent (MBA)
+   date: 2015
+   subject: eBusiness
+   school:  Welingkar Institute of Management Development & Research (WeSchool)
  - level: Master of Engineering (M.Engg)
    date: 2014
    subject: Information Technology
@@ -73,14 +81,7 @@ education:
    date: 2012
    subject: Electronics and Telecommunications
    school: University of Mumbai
- - level: Post Graduate Diploma in Managmeent (MBA)
-   date: 2015
-   subject: eBusiness
-   school:  Welingkar Institute of Management Development & Research (WeSchool)
- - level: Diploma in Cyber Law
-   date: 2016
-   subject: Cyber Law
-   school:  Asian School of Cyber Laws
+
 
 #This section is optional (as is the image link below)
 Certifications:
