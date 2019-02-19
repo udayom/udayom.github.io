@@ -46,22 +46,22 @@ roles:
    start: 2018
    end: Ongoing
    employer: Khidmaty Government Services
-   description: Check More on <a href="https://www.linkedin.com/udayom/in" taget="_blank">LinkedIn Profile</a>.
+   description: Check More on <a href="https://www.linkedin.com/in/udayom" taget="_blank">LinkedIn Profile</a>
  - title: IT Security Manager
    start: 2017
    end: 2018
    employer: Finacus Solutions
-   description: Check More on <a href="https://www.linkedin.com/udayom/in" taget="_blank">LinkedIn Profile</a>.
+   description: Check More on <a href="https://www.linkedin.com/in/udayom" taget="_blank">LinkedIn Profile</a>
  - title: Cyber Security Analyst
    start: 2014
    end: 2017
    employer: Capgemini
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
+   description: Check More on <a href="https://www.linkedin.com/in/udayom" taget="_blank">LinkedIn Profile</a>
  - title: SOC Engineer 
    start: 2013
    end: 2014
    employer: Asian Associates
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   description: Check More on <a href="https://www.linkedin.com/in/udayom" taget="_blank">LinkedIn Profile</a>
 
 #Education is required
 education:
@@ -73,6 +73,14 @@ education:
    date: 2012
    subject: Electronics and Telecommunications
    school: University of Mumbai
+ - level: Post Graduate Diploma in Managmeent (MBA)
+   date: 2015
+   subject: eBusiness
+   school:  Welingkar Institute of Management Development & Research (WeSchool)
+ - level: Diploma in Cyber Law
+   date: 2016
+   subject: Cyber Law
+   school:  Asian School of Cyber Laws
 
 #This section is optional (as is the image link below)
 Certifications:
@@ -82,10 +90,10 @@ Certifications:
       link: https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
       optionalimage: https://udemy-images.udemy.com/course/240x135/157842_9d33_8.jpg
       date: February 4, 2019
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+    - title: Diploma in Cyber Law
+      link: https://www.asianlaws.org
+      optionalimage: https://www.asianlaws.org/img2019/slider_dcl.jpg
+      date: January 28, 2018
 
 #List of interesting Github repo/projects to include - optional
 github:
@@ -112,4 +120,4 @@ intro: |
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   Get More information here on <a href="https://www.linkedin.com/udayom/in" taget="_blank">LinkedIn Profile</a>
+   Get More information here on <a href="https://www.linkedin.com/in/udayom/" taget="_blank">LinkedIn Profile</a>
