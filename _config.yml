@@ -77,6 +77,10 @@ education:
 certifications:
    profileurl: https://www.linkedin.com/in/udayom
    course:
+    - title: AWS Certified Cloud Practitioner
+      link: https://aws.amazon.com/certification/certified-cloud-practitioner/
+      optionalimage: https://udemy-images.udemy.com/course/240x135/1360446_f69e.jpg
+      date: February 23, 2019
     - title: Certified Ethical Hacking
       link: https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
       optionalimage: https://udemy-images.udemy.com/course/240x135/157842_9d33_8.jpg
