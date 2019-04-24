@@ -77,6 +77,10 @@ education:
 certifications:
    profileurl: https://www.linkedin.com/in/udayom
    course:
+    - title: Certified Chief Information Security Officer (C|CISO)
+      link: https://ciso.eccouncil.org/cciso-certification/
+      optionalimage: https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=zrMo6rdygFzBBgZ%2BBscQ97PRuRM%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjpKseJcOCmpEAVfn0JjQBhK-q1SGHkRI6-f4zuft5yiJ_gJ8L5agYUbhl4lWdI
+      date: April 10, 2019
     - title: AWS Certified Solution Architect - Associate
       link: https://aws.amazon.com/certification/certified-solutions-architect-associate/
       optionalimage: https://udemy-images.udemy.com/course/240x135/362328_91f3_10.jpg
@@ -87,7 +91,7 @@ certifications:
       date: February 23, 2019
     - title: Certified Ethical Hacking
       link: https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
-      optionalimage: https://udemy-images.udemy.com/course/240x135/157842_9d33_8.jpg
+      optionalimage: https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=KWH39om%2FG9UbQCMKm8O2gyVhKvM%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjuLcDYcLWl8UBHeyRVjQAxduq1ETLjEY68eYK-K9pxjMPkIZn5agYUbhl4lWdI
       date: February 4, 2019
     - title: Diploma in Cyber Law
       link: https://www.asianlaws.org
