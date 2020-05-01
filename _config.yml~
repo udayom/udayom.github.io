@@ -84,35 +84,39 @@ certifications:
    course:
     - title: EU GDPR Practioner 
       link: https://in.gdpr-portal.tuvsud.com/
-      optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/EU-GDPR.png
+      optionalimage: https://www.zertificon.com/images/EU-GDPR.png
       date: April 25, 2020
     - title: ISO 31000 Core Risk Management
       link: https://www.tuvsud.com/en/services/auditing-and-system-certification/iso-31000-and-onr-49001
-      optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/ISO31k.png
+      optionalimage: https://www.primo-europe.eu/wp-content/uploads/2010/06/images.jpeg
       date: April 30, 2020
     - title: Certified Chief Information Security Officer (C|CISO)
       link: https://ciso.eccouncil.org/cciso-certification/
-      optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/CCISO.png
+      optionalimage: https://bobfabienzinga.com/wp-content/uploads/2019/08/cciso.png
       date: April 10, 2019
     - title: AWS Certified Solution Architect - Associate
-      link: https://aws.amazon.com/certification/certified-solutions-architect-associate
-      optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/CCISO.png
+      link: https://aws.amazon.com/certification/certified-solutions-architect-associate/
+      optionalimage: https://udemy-images.udemy.com/course/240x135/362328_91f3_10.jpg
       date: March 02, 2019
+    - title: AWS Certified Cloud Practitioner
+      link: https://aws.amazon.com/certification/certified-cloud-practitioner/
+      optionalimage: https://udemy-images.udemy.com/course/240x135/1360446_f69e.jpg
+      date: February 23, 2019
     - title: Certified Ethical Hacking
-      link: https://www.eccouncil.org/programs/certified-ethical-hacker-ceh
-      optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/CEH.png
+      link: https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
+      optionalimage: https://crushtheinfosecexams.com/wp-content/uploads/2017/05/Certified-Ethical-Hacking.jpg
       date: February 4, 2019
     - title: Diploma in Cyber Law
       link: https://www.asianlaws.org
-      optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/Cyberlaw.png
+      optionalimage: https://udemy-images.udemy.com/course/240x135/1305460_486d_2.jpg
       date: January 28, 2018
     - title: ISO 27001 Lead Auditor
       link: https://www.tuv-sud.in/in-en/activity/auditing-system-certification/iso-27001-information-security-management-system
-      optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/ISO27k.png
+      optionalimage: http://ravikirankunder.com/wp-content/uploads/2016/11/ISO27k.png
       date: February 4, 2017
     - title: Agile Methodology & Project Management
       link: https://www.udemy.com/agile-crash-course
-      optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/agile.png
+      optionalimage: https://udemy-images.udemy.com/course/240x135/864146_dbd7_10.jpg
       date: January 28, 2018
 
 #List of interesting Github repo/projects to include - optional
@@ -126,7 +130,7 @@ github:
 #Stackoverflow flair is optional
 hackthebox:
    profileurl: https://www.hackthebox.eu/home/users/profile/74322
-   flairimageurl: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/htb.ico
+   flairimageurl: https://www.hackthebox.eu/storage/avatars/fcb23cd55da58c4e1f115bf2eb48e6a8.png
 
 about:
    profileurl: https://www.linkedin.com/in/udayom/
