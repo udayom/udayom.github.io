@@ -82,6 +82,14 @@ education:
 certifications:
    profileurl: https://www.linkedin.com/in/udayom
    course:
+    - title: EU GDPR Practioner 
+      link: https://in.gdpr-portal.tuvsud.com/
+      optionalimage: https://storage.googleapis.com/website-production/uploads/2017/06/eu-gdpr-data-protection-regulations.jpg
+      date: April 25, 2020
+    - title: ISO 31000 Core Risk Management
+      link: https://www.tuvsud.com/en/services/auditing-and-system-certification/iso-31000-and-onr-49001
+      optionalimage: https://www.primo-europe.eu/wp-content/uploads/2010/06/images.jpeg
+      date: April 30, 2020
     - title: Certified Chief Information Security Officer (C|CISO)
       link: https://ciso.eccouncil.org/cciso-certification/
       optionalimage: https://bobfabienzinga.com/wp-content/uploads/2019/08/cciso.png
