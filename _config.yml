@@ -139,6 +139,9 @@ intro: |
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    Few Youtube Tutorials and blog posts you can take a look at - 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/9T30_rCWnww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | 
-   Also U-DAY is very creative with exercise which helps balance left-right brain co-ordination, have a look at the playlist, give a it a try (super short 20 seconds videos)|
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/9T30_rCWnww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#A Smarkskill section to add something extra - added personally by OM out of intrest and learning - can be text or HTML
+smartskill: |
+   Uday well-known as OM or U-DAY also takes treamendous interest in going creative for exercise which helps balance left-right brain co-ordination, have a look at the playlist, give a it a try (super short 20 seconds videos) | 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLh_cLpwIeGjcR9KYKIfwa6GEcm1GAiz5P" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
