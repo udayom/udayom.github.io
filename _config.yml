@@ -38,7 +38,7 @@ blogfeed: https://udayom.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: Cyber Security Risk Analyst
+ - title: Cyber Security Risk Analyst - GRC
    start: 2019
    end: Ongoing
    employer: Emirates Group
@@ -48,7 +48,7 @@ roles:
    end: 2019
    employer: Khidmaty Government Services
    description: Operational and Governance related tasks that relates to Security for Client ASGC, Dubai. Major task includes the Defining and Implementation of Information Security Policies and Procedures as per ISO27001 Standards. The Automation of Management Reports, Analyze the vulnerabilities found in infrastructure by Vulnerability Analysis and Penetration Testing (Manual+Automated), Threat Remediation, highlight risk to management, risk assessment, vendor management, security checks for vendor, hardening checks on the Oracle Linux operating system, schedule Antivirus scans and highlight the Major vulnerability to IT Infra team, schedule patch management, Ensure compliance of the policies on the servers, Manage and Administer IT security and Forensic tools such as LanSweeper, QualysGuard, Symantec Endpoint protection, ATP, ETP, EDR, MS Office 365 Admin, Azure Portal Admin, Cloud Server Management Activities like New Provisioning server, Migrate, Destroy server etc. Perform VAPT on in-house Applications using OpenVAS. SIEM configuration (AlienVault), Cyber Operations, Reporting, Demonstration. Investigation of the attacks, Fortinet Firewall Rules review (nipper), log and memory based analysis, Forensic evidence finding (SIEM Log and Dump based) Technical Policy defining and Implementation in Symantec Endpoint Protection, Data Leakage Protection (DLP), Email+Cloud Security, Email Threat Protection (FireEye, Microsoft, Mimecast), Web Isolation modules. Check More on <a href="https://www.linkedin.com/in/udayom" taget="_blank">LinkedIn Profile</a>
- - title: CISO (IT Security Manager)
+ - title: CISO - IT Security Manager
    start: 2017
    end: 2018
    employer: Finacus Solutions
