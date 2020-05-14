@@ -32,6 +32,7 @@ skills:
  - Security Awareness
  - Agile Methodology
  - Training
+ - GRC
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://udayom.blogspot.com/feeds/posts/default?alt=json
