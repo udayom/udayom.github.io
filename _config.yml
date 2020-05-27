@@ -80,11 +80,19 @@ education:
 certifications:
    profileurl: https://www.linkedin.com/in/udayom
    course:
+    - title: Computer Hacking Forensic Investigator (CHFI)
+      link: https://raw.githubusercontent.com/udayom/udayom.github.io/master/cert/chfi-cert.png
+      optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/CHFI.jpg
+      date: May 22, 2020
+    - title: Certified Information System Security Professional (CISSP)
+      link: https://raw.githubusercontent.com/udayom/udayom.github.io/master/cert/chfi-cert.png
+      optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/cissp.png
+      date: May 19, 2020
     - title: ISO 31000 Risk Management Professional
       link: https://raw.githubusercontent.com/udayom/udayom.github.io/master/cert/iso31k.png
       optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/ISO31k.png
       date: April 30, 2020
-    - title: EU GDPR Practioner 
+    - title: EU GDPR Practioner (GDPR)
       link: https://raw.githubusercontent.com/udayom/udayom.github.io/master/cert/gdpr-practitioner.png
       optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/EU-GDPR.png
       date: April 28, 2020
