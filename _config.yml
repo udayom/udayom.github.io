@@ -81,11 +81,11 @@ certifications:
    profileurl: https://www.linkedin.com/in/udayom
    course:
     - title: Computer Hacking Forensic Investigator (CHFI)
-      link: https://raw.githubusercontent.com/udayom/udayom.github.io/master/cert/chfi-cert.png
+      link: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=z9HKV3jBjCb0hl0gco/MszNSWxJmNxshyeI2sw5kWtU=
       optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/CHFI.jpg
       date: May 22, 2020
     - title: Certified Information System Security Professional (CISSP)
-      link: https://raw.githubusercontent.com/udayom/udayom.github.io/master/cert/chfi-cert.png
+      link: https://raw.githubusercontent.com/udayom/udayom.github.io/master/cert/cissp-isc2.png
       optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/cissp.png
       date: May 19, 2020
     - title: ISO 31000 Risk Management Professional
