@@ -81,11 +81,14 @@ education:
 certifications:
    profileurl: https://www.linkedin.com/in/udayom
    course:
+    - title: OneTrust GRC Professional
+      link: https://raw.githubusercontent.com/udayom/udayom.github.io/master/cert/grc-prof.png
+      optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/OneTrust.png
+      date: Oct 30, 2021
     - title: Certified in Risk and Information Systems Control (CRISC)
       link: https://raw.githubusercontent.com/udayom/udayom.github.io/master/cert/crisc-cert.png
       optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/crisc.png
       date: Nov 5, 2020
-
     - title: Computer Hacking Forensic Investigator (CHFI)
       link: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=z9HKV3jBjCb0hl0gco/MszNSWxJmNxshyeI2sw5kWtU=
       optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/CHFI.jpg
