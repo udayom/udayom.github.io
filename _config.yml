@@ -40,9 +40,13 @@ blogfeed: https://udayom.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
+ - title: CyberSec GRC Manager
+   start: 2021
+   end: Ongoing
+   employer: Sitecore
  - title: Cyber Security Risk Analyst - GRC
    start: 2019
-   end: Ongoing
+   end: 2021
    employer: Emirates Group
    description: Ensure a comprehensive IT Risk Management framework is established to identify, analyze, mitigate, monitor and communicate IT risks across Emirates IT. Collect IT risks identified through various channels eg. risk assessments, incidents, log them in the IT Risk Register and perform continuous monitoring activities. Perform regular risk assessments on Third Party, Cybersecurity, Project and Program and IT operations risks. Perform risk assessment reports and present the results to Management. Produce regular risk reports for all IT departments, and Top risks report for Senior Management. Develop Key Risk Indicators (KRIs) for IT and create dashboards for continuous monitoring of the risks. Periodically assess, improve and develop Cybersecurity controls, policies, processes and standards. Conduct regular IT and Cybersecurity maturity assessments, bench-marking assignments and gap assessments against industry best practices to identify areas of improvement. Design, develop and maintain a Cybersecurity scorecard by business area, to assess the Cybersecurity posture - Identify key metrics covering all Cybersecurity areas, automate the data collection and scorecard production for all business areas, present the scorecard to the business. Monitor and track IT regulatory requirements. Keep abreast of emerging risks and industry standards, and assess the potential impact on the organization. Produce regular reporting to Senior Management. Support contribute to the IT security awareness campaign by organizing roadshows, publishing articles, or conducting on-site Cybersecurity training. Conduct awareness training and workshops on IT Risk Management. Manage daily security exceptions requests- Assess, review and action requests for exceptions to policies and standards from all levels of the organization, both corporate and IT users. Maintain an up-to-date repository of all the exceptions granted and communicate the exceptions to relevant business-technical units.
  - title: Cyber Security Lead
@@ -152,7 +156,7 @@ about:
    profileurl: https://www.linkedin.com/in/udayom/
 
 intro: |
-   With 7+ years of Experience, I have <b>significant experience working across a range</b> of Cyber Security activities, including strong background of <b>Risk assessment</b> for projects, third party, applications to compliance for the organisation. I have good grasp on the frameworks such as <b>ISO 27001, PCI-DSS</b> and had multiple opportunities to get organisation certified by handling end to end activities involved in process.</br></br>
+   I have <b>significant experience working across a range</b> of Cyber Security activities, including strong background of <b>Risk assessment</b> for projects, third party, applications to compliance for the organisation. I have good grasp on the frameworks such as <b>ISO 27001, PCI-DSS</b> and had multiple opportunities to get organisation certified by handling end to end activities involved in process.</br></br>
    I also enjoy working on shell scripts for Automation and Forensically Investigating the Cyber Security Incidents to uncover the real <b>intent</b> of an attack/Hack. I like the Automation approach wherever it is possible to implement and promote the DevSecOps culture whenever I get opportunity on. </br></br> <b>Dedicating my</b> efforts towards literature to understand the <b>root cause of Cyber Security events and Hackers perspective/behaviour</b> is a passion of mine.  <b>I also hold myself to a high standard when it comes to listening to a problem statement and working to deliver the right solution/practice for my clients</b>.</br></br> 
    I have worked on my <a href="https://www.github.com/udayom" target="_blank">GitHub Profile</a> to provide an overview of my <b>career history and expertise</b> here. You can also find more information here on my <a href="https://www.linkedin.com/in/udayom/" taget="_blank">LinkedIn Profile</a>
 
