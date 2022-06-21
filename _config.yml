@@ -40,9 +40,14 @@ blogfeed: https://udayom.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
+ - title: Cyber Security Manager
+   start: 2022
+   end: Ongoing
+   employer: Emirates Flight Catering
+   description: Working on Cybersecurity functions to secure an organisation and keep the operations smooth from Security perspective.
  - title: CyberSec GRC Manager
    start: 2021
-   end: Ongoing
+   end: 2022
    employer: Sitecore
    description: End to end handling of the Cybersecurity functions that comes under Governance Risk and Compliance umbrella
  - title: Cyber Security Risk Analyst - GRC
