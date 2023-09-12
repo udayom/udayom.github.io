@@ -40,6 +40,11 @@ blogfeed: https://udayom.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
+ - title: Group Audit Analyst
+   start: 2023
+   end: Ongoing
+   employer: Emirates Group
+   description: Working on Internal Audit functions - The Third Line of Defence - reporting to H.H.
  - title: Cyber Security Manager
    start: 2022
    end: Ongoing
