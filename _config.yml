@@ -97,7 +97,7 @@ certifications:
    profileurl: https://www.linkedin.com/in/udayom
    course:
     - title: Certified Information Security Auditor (CISA)
-      link: https://raw.githubusercontent.com/udayom/udayom.github.io/master/cert/cisa.png
+      link: https://raw.githubusercontent.com/udayom/udayom.github.io/master/cert/ISACA/cisa.png
       optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/cisa.png
       date: Mar 20, 2026
     - title: OneTrust GRC Professional
@@ -105,7 +105,7 @@ certifications:
       optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/OneTrust.png
       date: Nov 06, 2022
     - title: Certified in Risk and Information Systems Control (CRISC)
-      link: https://raw.githubusercontent.com/udayom/udayom.github.io/master/cert/crisc-cert.png
+      link: https://raw.githubusercontent.com/udayom/udayom.github.io/master/cert/ISACA/crisc.png
       optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/crisc.png
       date: Nov 5, 2020
     - title: Computer Hacking Forensic Investigator (CHFI)
