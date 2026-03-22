@@ -140,10 +140,6 @@ certifications:
       link: https://raw.githubusercontent.com/udayom/udayom.github.io/master/cert/dcl-cert.jpg
       optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/Cyberlaw.png
       date: January 28, 2018
-    - title: Agile Methodology & Project Management
-      link: https://www.udemy.com/certificate/UC-COYMV2YG/
-      optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/agile.png
-      date: January 28, 2018
     - title: PCI-DSS Implementation
       link: https://raw.githubusercontent.com/udayom/udayom.github.io/master/cert/pcidss-cert.jpg
       optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/pci-dss.png
