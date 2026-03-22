@@ -96,6 +96,10 @@ education:
 certifications:
    profileurl: https://www.linkedin.com/in/udayom
    course:
+    - title: Certified Information Security Auditor (CISA)
+      link: https://raw.githubusercontent.com/udayom/udayom.github.io/master/cert/cisa.png
+      optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/cisa.png
+      date: Mar 20, 2026
     - title: OneTrust GRC Professional
       link: https://raw.githubusercontent.com/udayom/udayom.github.io/master/cert/grc-prof.png
       optionalimage: https://raw.githubusercontent.com/udayom/udayom.github.io/master/img/OneTrust.png
